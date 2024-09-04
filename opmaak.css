@@ -6,7 +6,7 @@ body{
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #333;
+        background-color: #024a3e;
       }
       
       li {
@@ -22,4 +22,4 @@ body{
       }
       
       li a:hover {
-        background-color: #060c81;
+        background-color: #74bb03;
