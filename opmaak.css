@@ -6,25 +6,22 @@ body{
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #000e0c;
+        background-color: #000e0c; 
       }
       
       li {
-        float: left;
+        float: left; 
       }
       
       li a {
         display: block;
         color: white;
         text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
+        padding: 14px 16px;;
+        text-decoration: none; /* opmaak menu*/
       }
       
       li a:hover {
         background-color: #5c5b5b;
-        /*als je met pijl overheen gaat wordt het deze kleur*/
+        /*als je met je cursor er overheen gaat wordt het deze kleur*/
       }
-        .active {
-            background-color: #04AA6D;
-          } 
