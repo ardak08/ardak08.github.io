@@ -23,8 +23,4 @@ body{
       
       /* Change the link color to #111 (black) on hover */
       li a:hover {
-        background-color: #111;
-      }
-      .active {
-        background-color: #04AA6D;
-      }
+        background-color: #030749;
