@@ -22,4 +22,8 @@ body{
       }
       
       li a:hover {
-        background-color: #04aa6d;
+        background-color: #111;
+      }
+        .active {
+            background-color: #04AA6D;
+          }
