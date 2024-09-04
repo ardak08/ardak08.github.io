@@ -17,7 +17,7 @@ body{
         display: block;
         color: white;
         text-align: center;
-        padding: 14px 16px;;
+        padding: 14px 16px;
         text-decoration: none; /* opmaak menu*/
       }
       
@@ -25,3 +25,11 @@ body{
         background-color: #5c5b5b;
         /*als je met je cursor er overheen gaat wordt het deze kleur*/
       }
+      
+li { 
+  border-right: 1px solid #bbb; 
+}
+
+li:last-child {
+  border-right: none;
+} /* grijze lijn tussen de opties*/
