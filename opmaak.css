@@ -23,7 +23,8 @@ body{
       
       li a:hover {
         background-color: #5c5b5b;
+        /*als je met pijl overheen gaat wordt het deze kleur*/
       }
         .active {
             background-color: #04AA6D;
-          }
+          } 
