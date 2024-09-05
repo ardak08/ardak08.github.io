@@ -91,7 +91,7 @@ ul {
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd; /*kleur achtergrond dropdown menu*/
+  background-color: #5c5b5b; /*kleur achtergrond dropdown menu*/
 }
 
 .dropdown:hover .dropdown-content {
