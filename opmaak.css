@@ -40,16 +40,15 @@ ul {
   width: 100%;
 } /* Het menu blijft boven op je scherm staan als je een stukje naar beneden scrollt*/ 
   
-}
-
 .navbar {
   overflow: hidden;
-  background-color: #000e0c;
+  background-color: #333;
 }
+
 .navbar a {
   float: left;
   font-size: 16px;
-  color:white;
+  color: white;
   text-align: center;
   padding: 16px 16px;
   text-decoration: none;
@@ -61,22 +60,24 @@ ul {
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 14px;  
   border: none;
   outline: none;
   color: white;
   padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
   margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #5c5b5b;
+  background-color: red;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #000e0c;
+  background-color: #f9f9f9;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -97,4 +98,5 @@ ul {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
 }
