@@ -55,7 +55,7 @@ ul {
 }
 
 .dropdown {
-  float: right;
+  float: left;
   overflow: hidden; /* waar staat dropdown in de navigation bar*/
 }
 
@@ -64,6 +64,7 @@ ul {
   border: none;
   outline: none;
   color: white;
+  background-color: inherit;
   padding: 14px 16px;
   margin: 0; /*opmaak van dropdown*/
 }
