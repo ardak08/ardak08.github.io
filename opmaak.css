@@ -42,7 +42,7 @@ ul {
   
 .navbar {
   overflow: hidden;
-  background-color: #000e0c; /*achtergrond van navigation bar*/
+  background-color: black; /*achtergrond van navigation bar*/
 }
 
 .navbar a {
