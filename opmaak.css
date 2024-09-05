@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color: lightblue; /* dit is de achtergrond kleur*/
 
     ul {
         list-style-type: none;

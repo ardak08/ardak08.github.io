@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 170, 161);
+    background-color: rgb(248, 170, 161);  /* dit is de achtergrond kleur*/
 
     ul {
         list-style-type: none;
@@ -26,7 +26,7 @@ body{
         /*als je met je cursor er overheen gaat wordt het deze kleur*/
       }
       li { 
-        border-right: 1px solid #bbb; 
+        border-right: 1px solid #bbb; /*de kleur van de lijn tussen de opties*/
       }
       
       li:last-child {
