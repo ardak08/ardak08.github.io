@@ -65,6 +65,7 @@ ul {
   outline: none;
   color: white;
   background-color: inherit;
+  font-family: inherit;
   padding: 14px 16px;
   margin: 0; /*opmaak van dropdown*/
 }
