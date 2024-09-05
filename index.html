@@ -5,12 +5,22 @@
 <link rel="stylesheet" type="text/css" href="opmaak.css"> <!--link voor opmaak pagina-->
     </head>
     <body>
-        <ul>  
-            <li><a href="index.html">Over mij</a></li> 
-            <li> <a href="compressie.html"> Compressie</a></li>
-            <li><a href="kleurmodel.html"> Kleurmodel</a></li>
-            <li><a href="Binairstelsel.html"> Binaire stelsel</a></li>  <!-- dit is het menu-->
-          </ul>
+        <div class="navbar">  
+            <a href="index.html">Over mij</a>
+            <a href="kleurmodel.html">Kleurmodel</a>
+            <a href="compressie.html">compressie</a>
+            <div class="dropdown">
+              <button class="dropbtn">Dropdown 
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="index.html">Over mij</a>
+                <a href="kleurmodel.html">Kleurmodel</a>
+                <a href="compressie.html">Compressie</a>
+                <a href="Binairstelsel.html">Binairestelsel</a>
+              </div>
+            </div> 
+          </div> <!--het maken van een dropdown menu met <div>-->
 <h4>Over mij</h4>
 <h3>Over mij</h3> <!--dit is de titel van de tekst-->
 <p>Ik ben Arda Kaya en ik ben 16 jaar. Ik ben hem</p>
