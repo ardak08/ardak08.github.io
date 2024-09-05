@@ -42,7 +42,7 @@ ul {
   
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #000e0c;
 }
 
 .navbar a {
@@ -71,7 +71,7 @@ ul {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #5c5b5b;
 }
 
 .dropdown-content {
