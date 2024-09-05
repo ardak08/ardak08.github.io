@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue; /* dit is de achtergrond kleur*/
+    background-color: rgb(248, 170, 161); /* dit is de achtergrond kleur*/
 
     ul {
         list-style-type: none;
@@ -27,7 +27,7 @@ body{
       }
       
 li { 
-  border-right: 1px solid #bbb; 
+  border-right: 1px solid #bbb; /* de kleur van de lijnen tussen opties*/
 }
 
 li:last-child {
@@ -38,5 +38,5 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-} /* Het menu blijft staan als je een stukje naar beneden scrollt*/ 
+} /* Het menu blijft boven op je scherm staan als je een stukje naar beneden scrollt*/ 
 }
