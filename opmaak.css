@@ -106,4 +106,7 @@ ul {
 .column.side {
   width: 50%;
 }
+.column.middle {
+  width: 10%;
+}
 }
