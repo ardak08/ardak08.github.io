@@ -98,4 +98,12 @@ ul {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.side {
+  width: 60%;
+}
 }
