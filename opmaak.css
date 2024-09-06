@@ -6,11 +6,11 @@ body{
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #000e0c; 
+        background-color: #000e0c; /*opmaak nav nar*/
       }
       
       li {
-        float: left; 
+        float: left; /*waar staat de tekst in de nav bar*/
       }
       
       li a {
@@ -30,7 +30,7 @@ li {
   border-right: 1px solid #bbb; /* de kleur van de lijnen tussen opties*/
 }
 
-li:last-child {
+li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn aan het einde heeft*/
   border-right: none;
 } /* grijze lijn tussen de opties*/
 
@@ -64,8 +64,8 @@ ul {
   border: none;
   outline: none;
   color: white;
-  background-color: inherit;
-  font-family: inherit;
+  background-color: inherit; /*zorgt voor dezelfde achtergrondkleur als de rest van de navbar*/
+  font-family: inherit; /*zorgt voor dezelfde letterype als de rest van de nav bar*/
   padding: 16px 16px;
   margin: 0; /*opmaak van dropdown*/
 }
