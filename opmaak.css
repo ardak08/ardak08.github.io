@@ -106,5 +106,8 @@ p {
 h1 { 
   text-align: left;
 }
+img {
+  text-align: right;
+}
 
 }
