@@ -100,11 +100,11 @@ ul {
 }
 p {
   width: 50%;
-  text-align: center;
+  text-align: left;
 }
 
 h1 { 
-  text-align: left;
+  text-align: middle;
 }
 img {
   text-align: right;
