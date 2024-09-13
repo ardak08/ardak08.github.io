@@ -40,7 +40,10 @@ ul {
   width: 100%;
 } /* Het menu blijft boven op je scherm staan als je een stukje naar beneden scrollt*/ 
   
-
+.navbar {
+  overflow: hidden;
+  background-color: #5f6366; /*achtergrond van navigation bar*/
+}
 
 .navbar a {
   float: left;
