@@ -13,7 +13,6 @@ h1{
         padding: 0;
         overflow: hidden;
         background-color: #5f6366; /*opmaak nav bar*/
-        position: -webkit-sticky;
         position: sticky;
         top: 0;
       }
@@ -60,8 +59,7 @@ ul {
   color: white;
   text-align: center;
   padding: 16px 16px;
-  position: -webkit-sticky;
-        position: sticky;
+  position: sticky;
         top: 0;
   text-decoration: none;  /* waar staat de text in de navigation bar*/
 }
