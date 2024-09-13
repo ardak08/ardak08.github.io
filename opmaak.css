@@ -48,16 +48,6 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   background-color: #5f6366; /*achtergrond van navigation bar*/
 }
 
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 16px 16px;
-  position: sticky;
-  top: 0;
-  text-decoration: none;  /* waar staat de text in de navigation bar*/
-}
 
 .dropdown {
   float: left;
@@ -109,7 +99,7 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   padding: 15px;
 }
 
-/* Clear floats after the columns */
+
 .row::after {
   content: "";
   display: table;
