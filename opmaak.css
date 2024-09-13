@@ -116,7 +116,7 @@ ul {
 
 .right{ 
   width: 300px;
-  position: fixed;
+  position: static;
   top: 200px;
   left: 300px;
 
