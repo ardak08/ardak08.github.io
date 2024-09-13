@@ -13,7 +13,7 @@ h1{
         padding: 0;
         overflow: hidden;
         background-color: #5f6366; /*opmaak nav bar*/
-        position: sticky; /*navbar blijft je zien als je naar beneden scrollt*/
+        position: fixed; /*navbar blijft je zien als je naar beneden scrollt*/
         top: 0;
       }
       
