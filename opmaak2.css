@@ -126,6 +126,20 @@ text-align: center;
   background-color: #ddd;
   color: black;
 }
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
 
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  .column {
+    width: 100%;
+  }
 
 }
