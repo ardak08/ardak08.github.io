@@ -98,14 +98,6 @@ background-color: #5c5b5b; /*kleur achtergrond dropdown menu*/
 .dropdown:hover .dropdown-content {
 display: block;
 }
-p {
-width: 50%;
-text-align: left;
-}
-
-h1 { 
-text-align: center;
-}
 
 }
 .column {
