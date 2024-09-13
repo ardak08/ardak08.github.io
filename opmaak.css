@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(85, 46, 243); /* dit is de achtergrond kleur*/
+    background-color: #4d6d9a; /* dit is de achtergrond kleur*/
 
     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #000e0c; /*opmaak nav nar*/
+        background-color: #5f6366; /*opmaak nav nar*/
       }
       
       li {
@@ -42,7 +42,7 @@ ul {
   
 .navbar {
   overflow: hidden;
-  background-color: black; /*achtergrond van navigation bar*/
+  background-color: #5f6366; /*achtergrond van navigation bar*/
 }
 
 .navbar a {
@@ -71,13 +71,13 @@ ul {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #5c5b5b; /*welke kleur dorpdown wordt als je met cursor erover heen gaat*/
+  background-color: #5f6366; /*welke kleur dorpdown wordt als je met cursor erover heen gaat*/
 }
 
 .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
   display: none;
   position: absolute;
-  background-color: black; 
+  background-color: #5f6366; 
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /*schaduw*/
 }
