@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 170, 161); /* dit is de achtergrond kleur*/
+    background-color: rgb(110, 169, 247); /* dit is de achtergrond kleur*/
 
     ul {
         list-style-type: none;
@@ -106,9 +106,7 @@ p {
 h1 { 
   text-align: center;
 }
-img{ 
-  float: top right;
-}
+
 
 
 }
