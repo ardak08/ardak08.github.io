@@ -98,14 +98,23 @@ ul {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-p {
-  width: 50%;
-  text-align: left;
+.column {
+  float: left;
+  width: 40%;
+  padding: 15px;
 }
 
-h1 { 
-  text-align: center;
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
 }
-
+}
+.right{ 
+  width: 300px;
+  position: fixed;
+  top: 200px;
+  left: 300px;
 
 }
