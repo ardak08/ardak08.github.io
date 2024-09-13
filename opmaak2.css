@@ -99,7 +99,7 @@ background-color: #5c5b5b; /*kleur achtergrond dropdown menu*/
 display: block;
 }
 .header {
-  background-color: #f1f1f1;
+  background-color: rgb(5, 222, 74);
   padding: 20px;
   text-align: center;
 }
