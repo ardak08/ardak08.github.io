@@ -116,3 +116,12 @@ display: block;
   display: table;
   clear: both;
 }
+.right{ 
+width: 300px;
+position: fixed;
+top: 200px;
+left: 150px;
+
+}
+
+
