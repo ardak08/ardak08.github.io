@@ -1,6 +1,12 @@
 body{
   background-color: #4d6d9a; /* dit is de achtergrond kleur*/
-
+  
+  p{
+    color: white; /*text kleur*/
+  }
+  h1{
+    color: white; /*text kleur*/
+  }
   ul {
       list-style-type: none;
       margin: 0;

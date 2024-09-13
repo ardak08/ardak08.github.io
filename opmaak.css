@@ -2,10 +2,10 @@ body{
     background-color: #4d6d9a; /* dit is de achtergrond kleur*/
 
     p{
-  color: white;
+  color: white; /*text kleur*/
 }
 h1{
-  color: white;
+  color: white; /*text kleur*/
 }
     ul {
         list-style-type: none;
@@ -13,8 +13,7 @@ h1{
         padding: 0;
         overflow: hidden;
         background-color: #5f6366; /*opmaak nav bar*/
-        position: fixed; /*navbar blijft je zien als je naar beneden scrollt*/
-        top: 0;
+        
       }
       
       li {
@@ -54,8 +53,6 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   color: white;
   text-align: center;
   padding: 16px 16px;
-  position: sticky;
-  top: 0;
   text-decoration: none;  /* waar staat de text in de navigation bar*/
 }
 
