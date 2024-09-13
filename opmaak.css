@@ -42,11 +42,6 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   border-right: none;
 } /* grijze lijn tussen de opties*/
 
-ul {
-  position: fixed;
-  top: 0;
-  width: 100%;
-} /* Het menu blijft boven op je scherm staan als je een stukje naar beneden scrollt*/ 
   
 .navbar {
   overflow: hidden;
@@ -60,7 +55,7 @@ ul {
   text-align: center;
   padding: 16px 16px;
   position: sticky;
-        top: 0;
+  top: 0;
   text-decoration: none;  /* waar staat de text in de navigation bar*/
 }
 
