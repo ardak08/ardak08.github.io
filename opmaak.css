@@ -6,7 +6,10 @@ body{
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #5f6366; /*opmaak nav nar*/
+        background-color: #5f6366; /*opmaak nav bar*/
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
       }
       
       li {
