@@ -54,7 +54,7 @@ padding: 16px 16px;
 text-decoration: none;  /* waar staat de rest in de navigation bar*/
 }
 
-body{ 
+.navbar{
   margin: 0;
 }
 
