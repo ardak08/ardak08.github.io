@@ -116,8 +116,8 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
 .right{ 
   width: 300px;
   position: relative;
-  top: 400px;
-  left: 800px;
+  top: 800px;
+  left: 800px; /*positie plaatje*/
 
 }
 .column {
