@@ -123,7 +123,7 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
 .barca{ 
   width: 300px;
   position: relative;
-  top: 100px;
+  top: 200px;
   left: 80px; /*positie plaatje*/
 
 }
