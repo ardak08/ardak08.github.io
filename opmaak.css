@@ -133,7 +133,10 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   top: 300px;
   left: 700px; /*positie plaatje*/
 
-  
+  .header {
+    background-color: #4d6d9a;
+    padding: 30px;
+  }
 
 }
 }
