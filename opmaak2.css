@@ -130,4 +130,9 @@ display: block;
   display: table;
   clear: both;
 }
-
+.right{ 
+  width: 300px;
+  position: relative;
+  top: 300px;
+  left: 700px; /*positie plaatje*/
+}
