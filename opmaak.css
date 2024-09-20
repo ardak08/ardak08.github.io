@@ -130,7 +130,7 @@ li:last-child { /* dit zorgt ervoor dat de laatste optie in de navbar geen lijn 
   left: 700px; /*positie plaatje*/
 }
 div.gallery {
-  margin: 40px;
+  margin: 35px;
   float: left;
   width: 400px;
 }
