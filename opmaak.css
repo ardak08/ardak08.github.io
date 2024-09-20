@@ -139,4 +139,9 @@ div.gallery img {
   width: 100%;
   height: auto;
 }
+.footer{
+  text-align: center;
+  background-color:#5f6366 ;
+  color: white;
+}
 
