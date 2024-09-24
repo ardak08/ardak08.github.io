@@ -139,6 +139,6 @@ div.gallery img {
   padding: 10px; /*dit zorgt ervoor dat er onderaan de pagina 'einde pagina staat'*/
 }
 .kleur{
-  float: right;
+  float: left;
 
 }
