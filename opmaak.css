@@ -134,13 +134,13 @@ div.gallery img {
   height: auto; 
 }
 .footer{
-  text-align: center;
   background-color:#5f6366 ;
   padding: 10px; /*dit zorgt ervoor dat er onderaan de pagina 'einde pagina staat'*/
 }
 .pfooter{
   font-size: 20px;
   color: white;
+  text-align: center;
 }
 
 .kleur{
