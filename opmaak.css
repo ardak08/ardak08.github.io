@@ -1,7 +1,7 @@
 body{
     background-color: #4d6d9a; /* dit is de achtergrond kleur*/
 
-    p{
+  .tekst{
   color: white; /*text kleur*/
   font-size: 18px;
   width: 60%;
@@ -142,7 +142,6 @@ div.gallery img {
   font-size: 20px;
   color: white;
   text-align: center;
-  width: 100%;
 }
 
 .kleur{
