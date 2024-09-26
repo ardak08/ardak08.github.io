@@ -103,7 +103,7 @@ h2 {
   display: block;
 }
 .column {
-  float: middle;
+  float: center;
   width: 45%;
   padding: 15px; /*dit zorgt ervoor dat 2 stukken tekst niet onder elkaar maar naast elkaar staan*/
 }
