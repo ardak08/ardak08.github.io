@@ -1,18 +1,18 @@
 body{
     background-color: #4d6d9a; /* dit is de achtergrond kleur*/
 
-  .tekst{
+  .tekst{ /*alle tekst van de pagina's*/
   color: white; /*text kleur*/
-  font-size: 18px;
+  font-size: 18px; /*grootte van de letters*/
   width: 60%;
 
 }
 h1{
   color: white; /*text kleur*/
 }
-.H1header{
+.H1header{ /*de header*/
   color: white;
-  text-align: center;
+  text-align: center; /*zodat de tekst in het midden komt van de pagina*/
   padding: 30px;
 }
 h2 {
