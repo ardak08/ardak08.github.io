@@ -104,7 +104,7 @@ h2 {
 }
 .column {
   float: left;
-  width: 40%;
+  width: 50%;
   padding: 15px; /*dit zorgt ervoor dat 2 stukken tekst niet onder elkaar maar naast elkaar staan*/
 }
 
