@@ -1,6 +1,6 @@
 body{
     background-color: #4d6d9a; /* dit is de achtergrond kleur*/
-
+}
   .tekst{ /*alle tekst van de pagina's*/
   color: white; /*text kleur*/
   font-size: 18px; /*grootte van de letters*/
@@ -167,4 +167,3 @@ div.gallery img {
   position: relative;
 }
 
-}
