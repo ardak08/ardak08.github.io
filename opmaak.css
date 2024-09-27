@@ -102,12 +102,12 @@ h3 {
 
 }
 
-div.gallery { 
+div.gallery { /*dit zorgt ervoor dat de plaatsje naast elkaar staan*/
+
   margin: 45px; /*ruimte tussen pagina's*/
   float: left; /*plaatjes staan links van de pagina*/
-  width: 350px; /*dit zorgt ervoor dat de plaatsje naast elkaar staan*/
+  width: 350px; 
 }
-
 div.gallery img { 
   width: 100%;
   height: auto; 
@@ -152,7 +152,7 @@ div.gallery img {
 }
 
 .vector{
-  bottom: 200px;
+  margin-bottom: 200px;
   float: right;
   position: relative;
 }
