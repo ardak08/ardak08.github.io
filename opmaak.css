@@ -163,8 +163,9 @@ div.gallery img {
 }
 
 .Binair{
+  bottom: 200px;
   float: right;
-  position: relative;
+  position: fixed;
   
 }
 
