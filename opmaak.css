@@ -27,10 +27,6 @@ h3 {
   color: white;
 }
 
-     
-      
-     
-
   
 .navbar {
   overflow: hidden;
@@ -52,13 +48,13 @@ h3 {
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
-  border: none;
+  font-size: 16px;  /*letterdikte van dropdown tekst*/
+  border: none; /*geen lijntje om de tekst heen*/
   outline: none;
-  color: white;
+  color: white; /*tekst kleur*/
   background-color: inherit; /*zorgt voor dezelfde achtergrondkleur als de rest van de navbar*/
   font-family: inherit; /*zorgt voor dezelfde letterype als de rest van de nav bar*/
-  padding: 16px 16px;
+  padding: 16px 16px;/*dikte rondom de tekst*/
   margin: 0; /*opmaak van dropdown*/
 }
 
@@ -67,7 +63,7 @@ h3 {
 }
 
 .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
-  display: none;
+  display: none; 
   position: absolute;
   background-color: #5f6366; 
   min-width: 160px;
@@ -76,11 +72,11 @@ h3 {
 
 .dropdown-content a {
   float: none;
-  color: white;
-  padding: 12px 16px;
+  color: white; /*tekst kleur*/
+  padding: 12px 16px; /*ruimte rondom tekst*/
   text-decoration: none;
-  display: block;
-  text-align: left; /* text dropdown menu*/
+  display: block; /*zorgt dat het onderelkaar staat*/
+  text-align: left; /* tekst dropdown menu staat links*/
 }
 
 .dropdown-content a:hover {
@@ -91,8 +87,8 @@ h3 {
   display: block;
 }
 .column {
-  float: left;
-  width: 45%;
+  float: left; 
+  width: 45%; /*hoeveel de tekst van de pagina opneemt*/
   padding: 15px; /*dit zorgt ervoor dat 2 stukken tekst niet onder elkaar maar naast elkaar staan*/
 }
 
@@ -105,26 +101,21 @@ h3 {
 
 
 }
-.right{ 
-  width: 300px;
-  position: relative;
-  top: 300px;
-  left: 700px; /*positie plaatje*/
-}
-div.gallery {
-  margin: 45px;
-  float: left;
+
+div.gallery { 
+  margin: 45px; /*ruimte tussen pagina's*/
+  float: left; /*plaatjes staan links van de pagina*/
   width: 350px; /*dit zorgt ervoor dat de plaatsje naast elkaar staan*/
 }
 
-div.gallery img {
+div.gallery img { 
   width: 100%;
   height: auto; 
 }
 .footer{
   background-color:#5f6366 ;
   padding: 10px; /*dit zorgt ervoor dat er onderaan de pagina 'einde pagina staat'*/
-  text-align: center;
+  text-align: center; /*tekst staat in het midden van de pagina*/
 }
 .pfooter{
   font-size: 20px;
