@@ -9,15 +9,15 @@ body{
 }
 h1{
   color: white; /*text kleur*/
-  border-style: dotted;
-  border-width: 10px;
+  border-style: dotted; /*zorgt ervoor dat er puntjes rond de stukken die ik H1 heb gemaakt komt*/
+  border-width: 10px; /*dikte van de puntjes rond H1*/
   border-color: #859bac;
-  text-align: center;
+  text-align: center; /*tekst komt in het midden van de pagina*/
 }
 .H1header{ /*de header*/
   color: white;
   text-align: center; /*zodat de tekst in het midden komt van de pagina*/
-  padding: 30px;
+  padding: 30px; /*dikte rondom de tekst*/
 }
 h2 {
   color: white;
@@ -26,14 +26,7 @@ h3 {
   text-align: center;
   color: white;
 }
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #5f6366; /*opmaak nav bar*/
-        
-      }
+    
       
       li {
         float: left; /*waar staat de tekst in de nav bar*/
