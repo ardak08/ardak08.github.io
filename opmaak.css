@@ -114,7 +114,7 @@ h2 {
 }
 
 
-.row::after {
+.row::after { /*zorgt voor tuimte tussen de twee teksten*/
   content: "";
   display: table;
   clear: both;
