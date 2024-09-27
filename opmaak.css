@@ -11,7 +11,8 @@ h1{
   color: white; /*text kleur*/
   border-style: dotted;
   border-width: 10px;
-  border-color: #5f6366;
+  border-color: red;
+  text-align: center;
 }
 .H1header{ /*de header*/
   color: white;
