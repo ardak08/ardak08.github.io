@@ -181,3 +181,8 @@ div.gallery img {
   margin-right:auto;
 }
 
+.vector{
+  bottom: 300px;
+  float: right;
+  position: relative;
+}
