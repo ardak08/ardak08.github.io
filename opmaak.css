@@ -174,9 +174,8 @@ div.gallery img {
 }
 
 .bonanza{
- left: 200px;
+  display: block;
+  margin-left:auto;
+  margin-right:auto ;
 }
-
-
-
 
