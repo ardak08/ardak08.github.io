@@ -7,6 +7,7 @@ body{
   width: 60%;
 
 }
+
 h1{
   color: white; /*text kleur*/
   border-style: dotted; /*zorgt ervoor dat er puntjes rond de stukken die ik H1 heb gemaakt komt*/
@@ -14,14 +15,17 @@ h1{
   border-color: #859bac;
   text-align: center; /*tekst komt in het midden van de pagina*/
 }
+
 .H1header{ /*de header*/
   color: white;
   text-align: center; /*zodat de tekst in het midden komt van de pagina*/
   padding: 30px; /*dikte rondom de tekst*/
 }
+
 h2 {
   color: white;
 }
+
 h3 {
   text-align: center;
   color: white;
@@ -86,6 +90,7 @@ h3 {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
 .column {
   float: left; 
   width: 45%; /*hoeveel de tekst van de pagina opneemt*/
@@ -99,23 +104,23 @@ h3 {
   clear: both;
 }
 
-
-
-
 div.gallery { /*dit zorgt ervoor dat de plaatje naast elkaar staan*/
   margin: 45px; /*ruimte tussen pagina's*/
   float: left; /*plaatjes staan links van de pagina*/
   width: 350px; 
 }
+
 div.gallery img { 
   width: 100%;
   height: auto; 
 }
+
 .footer{
   background-color:#5f6366 ;
   padding: 10px; /*dit zorgt ervoor dat er onderaan de pagina 'einde pagina staat'*/
   text-align: center; /*tekst staat in het midden van de pagina*/
 }
+
 .pfooter{
   font-size: 20px; /*grootte van de tekst*/
   color: white;
@@ -156,4 +161,5 @@ div.gallery img {
   float: right;
   position: relative;
 }
+
 }
