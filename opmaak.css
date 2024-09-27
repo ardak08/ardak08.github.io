@@ -7,7 +7,7 @@ body{
   width: 60%;
 
 }
-.kleurh1{
+.kleurh1{ /*apparte h1 voor kleurmodellen*/
   color: white;
   border-style: ridge; /*zorgt ervoor dat er puntjes rond de stukken die ik H1 heb gemaakt komt*/
   border-width: 7px; /*dikte van de puntjes rond H1*/
