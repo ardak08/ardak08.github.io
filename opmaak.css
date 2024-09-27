@@ -143,6 +143,7 @@ div.gallery img {
   font-size: 20px;
   color: white;
   text-align: center;
+  margin: 0px;
 }
 
 .kleur{
@@ -161,6 +162,5 @@ div.gallery img {
   margin: 20px;
   float: right;
 }
-
 
 
