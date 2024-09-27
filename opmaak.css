@@ -93,8 +93,8 @@ h3 {
 }
 
 
-.row::after { /*zorgt voor tuimte tussen de twee teksten*/
-  content: "";
+.row::after { /*zorgt voor ruimte tussen de twee teksten*/
+ 
   display: table;
   clear: both;
 }
@@ -102,8 +102,7 @@ h3 {
 
 }
 
-div.gallery { /*dit zorgt ervoor dat de plaatsje naast elkaar staan*/
-
+div.gallery { /*dit zorgt ervoor dat de plaatje naast elkaar staan*/
   margin: 45px; /*ruimte tussen pagina's*/
   float: left; /*plaatjes staan links van de pagina*/
   width: 350px; 
