@@ -117,7 +117,7 @@ div.gallery img {
   text-align: center; /*tekst staat in het midden van de pagina*/
 }
 .pfooter{
-  font-size: 20px;
+  font-size: 20px; /*grootte van de tekst*/
   color: white;
   text-align: center;
   margin: 0px;
