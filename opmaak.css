@@ -11,7 +11,7 @@ body{
 h1{
   color: white; /*text kleur*/
   border-style: ridge; /*zorgt ervoor dat er puntjes rond de stukken die ik H1 heb gemaakt komt*/
-  border-width: 10px; /*dikte van de puntjes rond H1*/
+  border-width: 7px; /*dikte van de puntjes rond H1*/
   border-color: #859bac;
   text-align: center; /*tekst komt in het midden van de pagina*/
 }
