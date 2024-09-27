@@ -95,7 +95,7 @@ h3 {
 
 .row::after { /*zorgt voor ruimte tussen de twee teksten*/
   content: "";
-  display: table;
+  
   clear: both;
 }
 
